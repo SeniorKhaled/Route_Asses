@@ -1,0 +1,24 @@
+div {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: black;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 35px;
+    display: block;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+button:hover {
+    background-color: green;
+}
